@@ -1,12 +1,12 @@
 <h1 align="center"> Employees_Address </h1>
 
->### Database
+>## Database
 * [MySQL](https://www.mysql.com/downloads/)
 
->### Framework 
+>## Framework 
 * [SpringBoot](javatpoint.com/spring-boot-tutorial)
 
->### Language 
+>## Language 
 * [Java](https://www.java.com/en/download/help/whatis_java.html)
 
 >## Data flow
